@@ -10,7 +10,7 @@ Steps:
 
 1. Make sure you clone the repo locally.
 
-git clone https://bitbucket.org/ananthkannan/myawesomeangularapprepo
+git clone https://github.com/sakian2/springboot
 
 2. once cloned, navigate to repo folder
 cd ~/myawesomeangularapprepo/MyAwesomeApp/
